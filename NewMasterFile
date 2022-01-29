@@ -1,2 +1,6 @@
 this is a new master file
+<<<<<<< HEAD
 A change has been dones
+=======
+This is the new file
+>>>>>>> harry
