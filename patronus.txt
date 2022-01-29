@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Lily'S PATRONUS
                    .     _,
                    |`\__/ /
@@ -15,7 +15,7 @@ Lily'S PATRONUS
      ||  \\       |||
      )\   )\      )||
      `"   `"      `""
-=======
+
 abs
 HARRY'S PATRONUS
 
@@ -43,4 +43,4 @@ HARRY'S PATRONUS
            | || |           | |   | |
            |_||_|           |_|   |_|
           /_//_/           /_/   /_/
->>>>>>> harry
+
