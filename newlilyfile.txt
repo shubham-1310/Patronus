@@ -1,7 +1,6 @@
-<<<<<<< Updated upstream
-=======
 This is the test file
 I added the second line
 this is the sample text added.
 I changed this file.
->>>>>>> Stashed changes
+Hey I have added this file.
+
