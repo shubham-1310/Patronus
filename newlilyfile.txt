@@ -1,5 +1,5 @@
 This is the test file
 I added the second line
-this is the sample text added.
+this is the sample text added.sample
 I changed this file.
 Hey I have added this file.
